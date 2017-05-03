@@ -39,7 +39,7 @@ Namespace My.Resources
         Friend ReadOnly Property ResourceManager() As Global.System.Resources.ResourceManager
             Get
                 If Object.ReferenceEquals(resourceMan, Nothing) Then
-                    Dim temp As Global.System.Resources.ResourceManager = New Global.System.Resources.ResourceManager("LOGIN_VETERINARIA.Resources", GetType(Resources).Assembly)
+                    Dim temp As Global.System.Resources.ResourceManager = New Global.System.Resources.ResourceManager("Registro.Resources", GetType(Resources).Assembly)
                     resourceMan = temp
                 End If
                 Return resourceMan
@@ -73,16 +73,6 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property dog_PNG193() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("dog_PNG193", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
         Friend ReadOnly Property heartrate_icon() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("heartrate-icon", resourceCulture)
@@ -103,26 +93,6 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property icon_418021() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("icon_418021", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property images() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("images", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
         Friend ReadOnly Property phone_1332800_960_720() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("phone-1332800_960_720", resourceCulture)
@@ -133,9 +103,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property superthumb() As System.Drawing.Bitmap
+        Friend ReadOnly Property phone_4307() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("superthumb", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("phone_4307", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -153,69 +123,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property tumblr_inline_mr6k4aJ79A1qz4rgp1() As System.Drawing.Bitmap
+        Friend ReadOnly Property user_icon() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_inline_mr6k4aJ79A1qz4rgp1", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property tumblr_ml7agfDQgh1sncci2o1_500() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_ml7agfDQgh1sncci2o1_500", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property tumblr_mmjvpkNd4c1s2lf9yo1_500() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_mmjvpkNd4c1s2lf9yo1_500", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property tumblr_moen4nfWVF1s8mgkyo1_500() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_moen4nfWVF1s8mgkyo1_500", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property tumblr_mskwkvE8wz1rgpyeqo1_500() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_mskwkvE8wz1rgpyeqo1_500", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property Tumblr_mwcsxnsWDw1sn8q7mo1_400() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("Tumblr_mwcsxnsWDw1sn8q7mo1_400", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property tumblr_n9gnswNkvq1t5wir4o1_500() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("tumblr_n9gnswNkvq1t5wir4o1_500", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("user-icon", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
