@@ -1,0 +1,12 @@
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\bin\Debug\LOGIN VETERINARIA.exe
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\bin\Debug\LOGIN VETERINARIA.pdb
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\bin\Debug\LOGIN VETERINARIA.xml
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN_VETERINARIA.Historial_Clínico.resources
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN_VETERINARIA.Login.resources
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN_VETERINARIA.Resources.resources
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN_VETERINARIA.Registro.resources
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN VETERINARIA.vbproj.GenerateResource.Cache
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN VETERINARIA.exe
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN VETERINARIA.xml
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN VETERINARIA.pdb
+C:\Users\consva01\Documents\GitHub\Veterinaria\LOGIN VETERINARIA\LOGIN VETERINARIA\obj\x86\Debug\LOGIN_VETERINARIA.Registro_Login.resources

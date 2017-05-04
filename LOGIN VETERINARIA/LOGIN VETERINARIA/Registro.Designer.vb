@@ -113,7 +113,7 @@ Partial Class Registro
         Me.TabControl1.Location = New System.Drawing.Point(26, 29)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(574, 361)
+        Me.TabControl1.Size = New System.Drawing.Size(577, 361)
         Me.TabControl1.TabIndex = 1
         '
         'Cliente
@@ -138,7 +138,7 @@ Partial Class Registro
         Me.Cliente.Location = New System.Drawing.Point(4, 22)
         Me.Cliente.Name = "Cliente"
         Me.Cliente.Padding = New System.Windows.Forms.Padding(3)
-        Me.Cliente.Size = New System.Drawing.Size(566, 335)
+        Me.Cliente.Size = New System.Drawing.Size(569, 335)
         Me.Cliente.TabIndex = 0
         Me.Cliente.Text = "Cliente"
         Me.Cliente.UseVisualStyleBackColor = True
@@ -316,7 +316,7 @@ Partial Class Registro
         Me.TabPage2.Location = New System.Drawing.Point(4, 22)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(566, 335)
+        Me.TabPage2.Size = New System.Drawing.Size(569, 335)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Mascota"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -516,7 +516,7 @@ Partial Class Registro
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(566, 335)
+        Me.TabPage1.Size = New System.Drawing.Size(569, 335)
         Me.TabPage1.TabIndex = 2
         Me.TabPage1.Text = "Veterinaria"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -607,7 +607,7 @@ Partial Class Registro
         Me.TabPage3.Location = New System.Drawing.Point(4, 22)
         Me.TabPage3.Name = "TabPage3"
         Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage3.Size = New System.Drawing.Size(566, 335)
+        Me.TabPage3.Size = New System.Drawing.Size(569, 335)
         Me.TabPage3.TabIndex = 3
         Me.TabPage3.Text = "Empleado"
         Me.TabPage3.UseVisualStyleBackColor = True
@@ -712,7 +712,7 @@ Partial Class Registro
         Me.TabPage4.Location = New System.Drawing.Point(4, 22)
         Me.TabPage4.Name = "TabPage4"
         Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(566, 335)
+        Me.TabPage4.Size = New System.Drawing.Size(569, 335)
         Me.TabPage4.TabIndex = 4
         Me.TabPage4.Text = "Cargo"
         Me.TabPage4.UseVisualStyleBackColor = True
