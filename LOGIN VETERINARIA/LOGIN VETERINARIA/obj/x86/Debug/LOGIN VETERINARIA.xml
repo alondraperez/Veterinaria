@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LOGINVETERINARIA
+</name>
+</assembly>
+<members>
+<member name="P:LOGIN_VETERINARIA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources._8644">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.dog_PNG193">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.heartrate_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.icon_41802">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.icon_418021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.phone_1332800_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.superthumb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_inline_mr6k4aJ79A1qz4rgp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_inline_mr6k4aJ79A1qz4rgp1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_ml7agfDQgh1sncci2o1_500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_mmjvpkNd4c1s2lf9yo1_500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_moen4nfWVF1s8mgkyo1_500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_mskwkvE8wz1rgpyeqo1_500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.Tumblr_mwcsxnsWDw1sn8q7mo1_400">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.tumblr_n9gnswNkvq1t5wir4o1_500">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LOGIN_VETERINARIA.My.Resources.Resources.user_icon_2098873_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LOGIN_VETERINARIA.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>
