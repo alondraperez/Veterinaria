@@ -34,6 +34,7 @@ Partial Class Login
         Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
         Me.PictureBox7 = New System.Windows.Forms.PictureBox()
+        Me.Button2 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -46,7 +47,7 @@ Partial Class Login
         '
         Me.Button1.BackColor = System.Drawing.Color.Salmon
         Me.Button1.Font = New System.Drawing.Font("Impact", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(131, 234)
+        Me.Button1.Location = New System.Drawing.Point(77, 234)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(90, 50)
         Me.Button1.TabIndex = 0
@@ -148,7 +149,7 @@ Partial Class Login
         '
         Me.PictureBox5.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox5.Image = Global.LOGIN_VETERINARIA.My.Resources.Resources.dog_PNG193
-        Me.PictureBox5.Location = New System.Drawing.Point(259, 280)
+        Me.PictureBox5.Location = New System.Drawing.Point(277, 280)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(87, 118)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -166,12 +167,23 @@ Partial Class Login
         Me.PictureBox7.TabIndex = 10
         Me.PictureBox7.TabStop = False
         '
+        'Button2
+        '
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(173, 234)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(104, 50)
+        Me.Button2.TabIndex = 11
+        Me.Button2.Text = "Registrar"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
         'Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.LOGIN_VETERINARIA.My.Resources.Resources.tumblr_inline_mr6k4aJ79A1qz4rgp
         Me.ClientSize = New System.Drawing.Size(374, 400)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.PictureBox7)
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.PictureBox4)
@@ -209,5 +221,6 @@ Partial Class Login
     Friend WithEvents PictureBox4 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox5 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox7 As System.Windows.Forms.PictureBox
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
