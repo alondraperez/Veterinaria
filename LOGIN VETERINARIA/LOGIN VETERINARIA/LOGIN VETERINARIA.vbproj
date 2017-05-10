@@ -86,6 +86,7 @@
       <DependentUpon>Login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -101,10 +102,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="Registrase.Designer.vb">
+      <DependentUpon>Registrase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registrase.vb">
+=======
     <Compile Include="Registro Login.Designer.vb">
       <DependentUpon>Registro Login.vb</DependentUpon>
     </Compile>
     <Compile Include="Registro Login.vb">
+>>>>>>> origin/master
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Registro.Designer.vb">
@@ -127,8 +135,13 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+<<<<<<< HEAD
+    <EmbeddedResource Include="Registrase.resx">
+      <DependentUpon>Registrase.vb</DependentUpon>
+=======
     <EmbeddedResource Include="Registro Login.resx">
       <DependentUpon>Registro Login.vb</DependentUpon>
+>>>>>>> origin/master
     </EmbeddedResource>
     <EmbeddedResource Include="Registro.resx">
       <DependentUpon>Registro.vb</DependentUpon>
