@@ -79,6 +79,18 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="historial.Designer.vb">
+      <DependentUpon>historial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="historial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historialonuevo.Designer.vb">
+      <DependentUpon>Historialonuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Historialonuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -98,6 +110,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historial.resx">
+      <DependentUpon>historial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historialonuevo.resx">
+      <DependentUpon>Historialonuevo.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
